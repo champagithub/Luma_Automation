@@ -1,0 +1,1629 @@
+2022-11-29 19:45:34,004 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:45:34,909 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:45:34,937 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:45:38,067 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:46:08,755 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:46:08,765 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:46:08,768 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:46:10,883 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:47:43,203 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:47:43,334 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:47:43,353 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:47:45,623 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:48:15,821 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:48:15,834 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:48:15,844 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:48:18,213 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:51:52,312 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:51:52,518 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:51:52,541 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:51:55,349 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:51:56,460 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-11-29 19:51:56,644 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-11-29 19:51:56,747 - Test Lead Champa Nandi -INFO - user able to click login
+2022-11-29 19:52:38,064 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:52:38,074 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:52:38,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:52:40,542 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:52:40,799 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-11-29 19:55:07,100 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:55:07,297 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:55:07,318 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:55:10,071 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:55:11,131 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-11-29 19:55:11,401 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-11-29 19:55:11,506 - Test Lead Champa Nandi -INFO - user able to click login
+2022-11-29 19:55:12,969 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:55:12,978 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:55:12,984 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:55:15,221 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:55:16,244 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-11-29 19:55:16,483 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-11-29 19:55:16,628 - Test Lead Champa Nandi -INFO - user able to click login
+2022-11-29 19:55:59,191 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:55:59,361 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:55:59,380 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:56:01,840 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:56:02,959 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-11-29 19:56:03,150 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-11-29 19:56:03,311 - Test Lead Champa Nandi -INFO - user able to click login
+2022-11-29 19:56:05,072 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-29 19:56:05,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-29 19:56:05,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-29 19:56:07,546 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-29 19:56:08,652 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-11-29 19:56:08,987 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-11-29 19:56:09,088 - Test Lead Champa Nandi -INFO - user able to click login
+2022-11-30 18:13:17,258 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-30 18:13:17,966 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-30 18:13:17,983 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 18:13:20,508 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-30 18:13:21,582 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-11-30 18:13:21,764 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-11-30 18:13:21,862 - Test Lead Champa Nandi -INFO - user able to click login
+2022-11-30 18:13:23,508 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-11-30 18:13:23,513 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-30 18:13:23,516 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-30 18:13:25,613 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-11-30 18:13:26,269 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 18:25:01,739 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 18:25:02,908 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 18:25:02,938 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-12-06 18:25:03,553 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+2022-12-06 18:25:03,980 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file chromedriver_win32.zip
+2022-12-06 18:25:04,242 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 18:25:08,947 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 18:25:10,093 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 18:25:10,411 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 18:25:10,568 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 18:25:12,370 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 18:25:12,381 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 18:25:12,389 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 18:25:15,017 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 18:25:15,943 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 18:25:16,124 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 18:25:16,219 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 19:14:22,817 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 19:14:22,946 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 19:14:22,959 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 19:14:25,411 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 19:14:26,462 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 19:14:26,638 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 19:14:26,713 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 19:14:38,573 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 19:14:38,593 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 19:14:38,601 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 19:14:41,056 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 19:14:42,120 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 19:14:42,311 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 19:14:42,403 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 19:16:11,947 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 19:16:12,066 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 19:16:12,081 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 19:16:14,391 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 19:16:15,437 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 19:16:15,587 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 19:16:15,660 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 19:16:27,581 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 19:16:27,601 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 19:16:27,611 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 19:16:29,786 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 19:16:30,844 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 19:16:31,021 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 19:16:31,114 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 20:08:54,722 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 20:08:55,133 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 20:08:55,141 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 20:08:57,496 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 20:08:58,592 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 20:08:58,814 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 20:08:58,941 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 20:09:43,703 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 20:09:43,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 20:09:43,812 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 20:09:46,086 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 20:09:47,135 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 20:09:47,368 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 20:09:47,483 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 20:28:36,381 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 20:28:36,565 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 20:28:36,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 20:28:39,606 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 20:28:40,680 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 20:28:40,824 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 20:28:40,905 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 20:50:59,706 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 20:50:59,885 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 20:50:59,901 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 20:51:03,193 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 20:51:04,309 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 20:51:04,455 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 20:51:04,536 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 22:55:23,673 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 22:55:24,310 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 22:55:24,326 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 22:55:26,794 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 22:55:27,864 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 22:55:28,005 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 22:55:28,078 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 22:59:18,257 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 22:59:18,416 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 22:59:18,441 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 22:59:20,730 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 22:59:21,853 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 22:59:22,167 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 22:59:22,245 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 23:03:29,434 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 23:03:29,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 23:03:29,618 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 23:03:32,258 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 23:03:33,321 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 23:03:33,523 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 23:03:33,591 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 23:05:19,029 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 23:05:19,189 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 23:05:19,216 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 23:05:21,959 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 23:05:23,080 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 23:05:23,345 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 23:05:23,450 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 23:08:44,286 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 23:08:44,471 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 23:08:44,496 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 23:08:47,158 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 23:08:48,108 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 23:08:48,276 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 23:08:48,349 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 23:27:26,767 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 23:27:26,936 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 23:27:26,954 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 23:27:29,589 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 23:27:30,744 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 23:27:31,020 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 23:27:31,101 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 23:31:12,764 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 23:31:12,937 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 23:31:12,968 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 23:31:15,466 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 23:31:16,538 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 23:31:16,773 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 23:31:16,893 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-06 23:54:08,324 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-06 23:54:08,482 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-06 23:54:08,506 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-06 23:54:10,851 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-06 23:54:11,947 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-06 23:54:12,203 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-06 23:54:12,314 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 00:19:33,772 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 00:19:34,213 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 00:19:34,220 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 00:19:36,542 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 00:19:37,429 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 00:19:37,585 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 00:19:37,663 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 00:30:41,017 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 00:30:41,180 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 00:30:41,206 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 00:30:43,911 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 00:30:44,907 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 00:30:45,091 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 00:30:45,212 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 00:35:05,610 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 00:35:05,778 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 00:35:05,808 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 00:35:08,159 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 00:35:09,231 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 00:35:09,487 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 00:35:09,656 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 08:28:02,716 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 08:28:03,214 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 08:28:03,231 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 08:28:06,086 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 08:28:07,118 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 08:28:07,271 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 08:28:07,337 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 08:29:03,950 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 08:29:04,072 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 08:29:04,084 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 08:29:07,108 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 08:29:08,210 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 08:29:08,373 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 08:29:08,440 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 08:29:59,405 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 08:29:59,537 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 08:29:59,550 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 08:30:02,094 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 08:30:03,011 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 08:30:03,184 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 08:30:03,255 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 08:30:56,007 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 08:30:56,142 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 08:30:56,162 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 08:30:58,611 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 08:30:59,537 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 08:30:59,716 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 08:30:59,803 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 08:31:47,777 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 08:31:47,903 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 08:31:47,916 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 08:31:50,393 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 08:31:51,395 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 08:31:51,548 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 08:31:51,614 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 09:31:48,313 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 09:31:48,956 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 09:31:48,966 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 09:31:51,637 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 09:31:52,675 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 09:31:52,849 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 09:31:52,920 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 09:42:52,746 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 09:42:52,933 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 09:42:52,952 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 09:42:55,828 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 09:42:56,900 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 09:42:57,140 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 09:42:57,212 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 10:33:44,443 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 10:33:45,274 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 10:33:45,285 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 10:33:48,318 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 10:33:49,241 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 10:33:49,406 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 10:33:49,484 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-07 11:27:54,731 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-07 11:27:54,826 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-07 11:27:54,837 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-07 11:27:56,961 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-07 11:27:57,860 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-07 11:27:57,993 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-07 11:27:58,050 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 10:12:08,324 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 10:12:09,145 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 10:12:09,165 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 10:12:12,340 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 10:12:13,379 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 10:12:13,555 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 10:12:13,634 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 18:50:24,092 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 18:50:24,683 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 18:50:24,698 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 18:50:27,793 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 18:50:28,817 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 18:50:28,997 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 18:50:29,084 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:13:29,639 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 19:13:29,778 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 19:13:29,791 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 19:13:32,379 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 19:13:33,490 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 19:13:33,662 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 19:13:33,741 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:18:00,383 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 19:18:00,519 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 19:18:00,534 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 19:18:03,032 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 19:18:04,124 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 19:18:04,298 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 19:18:04,384 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:20:10,726 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 19:20:10,880 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 19:20:10,894 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 19:20:13,285 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 19:20:14,284 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 19:20:14,458 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 19:20:14,541 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:32:11,091 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 19:32:11,232 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 19:32:11,247 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 19:32:14,129 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 19:32:15,249 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 19:32:15,438 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 19:32:15,521 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:32:18,405 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 19:49:49,844 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 19:49:49,975 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 19:49:49,991 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 19:49:52,724 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 19:49:53,760 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 19:49:53,929 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 19:49:54,013 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:49:55,494 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 19:49:56,771 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 19:52:40,541 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 19:52:41,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 19:52:41,096 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 19:52:43,571 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 19:52:44,611 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 19:52:44,837 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 19:52:44,947 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:52:46,373 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 19:52:47,660 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 19:52:47,662 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 19:52:47,663 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 19:52:47,827 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 19:55:11,391 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 19:55:11,541 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 19:55:11,562 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 19:55:14,114 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 19:55:15,202 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 19:55:15,388 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 19:55:15,465 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:55:16,903 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 19:55:18,214 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 19:55:18,217 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 19:55:18,218 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 19:55:18,401 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 19:57:18,819 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 19:57:19,009 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 19:57:19,035 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 19:57:21,862 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 19:57:22,921 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 19:57:23,145 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 19:57:23,239 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 19:57:24,671 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 19:57:25,991 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 19:57:25,994 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 19:57:25,995 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 19:57:26,168 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 19:57:26,354 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 20:02:47,194 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 20:02:47,381 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 20:02:47,396 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 20:02:50,116 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 20:02:51,232 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 20:02:51,498 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 20:02:51,609 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 20:02:53,001 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 20:02:54,274 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 20:02:54,276 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 20:02:54,277 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 20:02:54,429 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 20:02:54,584 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 20:02:55,233 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 21:39:11,294 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 21:39:11,893 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 21:39:11,902 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 21:39:14,673 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 21:39:15,595 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 21:39:15,799 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 21:39:15,880 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 21:39:17,223 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 21:39:18,364 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 21:39:18,365 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 21:39:18,366 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 21:39:18,504 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 21:39:18,640 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 21:39:19,460 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 21:43:40,589 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 21:43:40,712 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 21:43:40,723 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 21:43:43,049 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 21:43:44,045 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 21:43:44,322 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 21:43:44,453 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 21:43:45,815 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 21:43:46,995 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 21:43:46,996 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 21:43:46,997 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 21:43:47,143 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 21:43:47,297 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 21:43:48,314 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 21:43:48,373 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 21:43:48,374 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 21:43:49,033 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:01:42,705 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:01:42,858 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:01:42,876 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:01:45,599 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:01:46,570 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:01:46,818 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:01:46,945 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:01:48,392 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:01:49,535 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:01:49,538 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:01:49,539 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:01:49,703 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:01:49,856 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:01:50,458 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:01:50,633 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:01:50,634 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:01:51,254 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:01:51,869 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:01:51,934 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:01:52,048 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:01:52,119 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:03:16,021 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:03:16,176 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:03:16,199 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:03:19,016 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:03:19,990 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:03:20,269 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:03:20,403 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:03:21,798 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:03:22,910 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:03:22,912 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:03:22,912 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:03:23,057 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:03:23,211 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:03:24,092 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:03:24,186 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:03:24,187 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:03:24,793 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:03:25,297 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:03:25,367 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:03:25,503 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:03:25,560 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:03:29,122 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:03:30,389 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 22:04:03,068 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:04:03,238 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:04:03,255 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:04:05,915 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:04:06,892 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:04:07,064 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:04:07,160 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:04:08,534 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:04:09,843 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:04:09,846 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:04:09,847 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:04:10,004 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:04:10,177 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:04:11,025 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:04:11,292 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:04:11,293 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:04:12,159 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:04:13,336 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:04:13,426 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:04:13,592 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:04:13,681 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:05:52,241 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:05:52,533 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:05:52,569 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:05:55,981 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:05:57,115 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:05:57,400 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:05:57,534 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:05:59,082 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:06:00,413 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:06:00,415 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:06:00,416 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:06:00,576 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:06:00,744 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:06:01,464 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:06:01,747 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:06:01,748 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:06:02,475 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:06:03,353 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:06:03,451 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:06:03,609 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:06:03,704 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:06:45,718 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:06:45,870 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:06:45,894 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:06:48,696 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:06:49,840 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:06:50,063 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:06:50,159 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:06:51,653 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:06:52,933 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:06:52,935 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:06:52,935 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:06:53,087 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:06:53,243 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:06:53,898 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:06:54,048 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:06:54,049 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:06:54,663 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:06:55,180 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:06:55,246 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:06:55,362 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:06:55,431 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:07:00,231 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:07:01,660 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 22:14:04,982 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:14:05,095 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:14:05,109 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:14:07,689 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:14:08,634 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:14:08,796 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:14:08,876 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:14:10,207 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:14:11,385 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:14:11,387 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:14:11,387 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:14:11,548 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:14:11,689 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:14:12,608 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:14:12,660 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:14:12,660 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:14:13,291 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:14:13,828 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:14:13,921 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:14:14,040 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:14:14,091 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:14:17,562 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:14:18,772 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 22:22:15,027 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:22:15,147 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:22:15,159 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:22:17,760 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:22:18,735 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:22:18,909 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:22:18,982 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:22:20,253 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:22:21,301 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:22:21,302 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:22:21,302 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:22:21,449 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:22:21,585 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:22:22,398 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:22:22,436 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:22:22,436 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:22:22,996 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:22:23,505 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:22:23,558 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:22:23,637 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:22:23,676 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:22:26,571 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:22:26,702 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 22:23:13,426 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:23:13,555 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:23:13,569 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:23:15,903 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:23:16,779 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:23:16,963 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:23:17,031 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:23:18,229 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:23:19,224 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:23:19,225 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:23:19,226 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:23:19,367 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:23:19,506 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:23:20,357 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:23:20,394 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:23:20,394 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:23:20,940 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:23:21,423 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:23:21,473 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:23:21,561 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:23:21,600 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:23:24,113 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:23:25,168 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 22:27:38,069 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:27:38,178 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:27:38,189 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:27:40,533 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:27:41,461 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:27:41,607 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:27:41,691 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:27:43,021 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:27:44,153 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:27:44,155 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:27:44,155 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:27:44,312 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:27:44,451 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:27:45,064 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:27:45,189 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:27:45,189 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:27:45,766 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:27:46,230 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:27:46,283 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:27:46,361 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:27:46,400 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:27:49,682 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:27:50,736 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 22:28:46,849 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:28:46,965 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:28:46,976 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:28:49,187 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:28:50,126 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:28:50,309 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:28:50,377 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:28:51,825 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:28:53,050 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:28:53,051 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:28:53,051 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:28:53,196 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:28:53,335 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:28:54,188 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:28:54,226 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:28:54,226 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:28:54,806 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:28:55,313 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:28:55,388 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:28:55,521 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:28:55,582 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:28:59,099 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:29:00,257 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 22:44:14,938 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:44:15,657 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:44:15,672 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:44:17,943 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:44:18,908 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:44:19,117 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:44:19,201 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:44:20,511 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:44:21,578 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:44:21,579 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:44:21,579 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:44:21,721 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:44:21,860 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:44:22,674 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:44:22,714 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:44:22,714 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:44:23,267 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:44:23,802 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:44:23,863 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:44:23,956 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:44:24,006 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:44:26,667 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:44:27,749 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 22:45:07,417 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 22:45:07,531 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 22:45:07,550 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 22:45:09,813 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 22:45:10,796 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 22:45:10,998 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 22:45:11,088 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 22:45:12,448 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 22:45:13,590 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 22:45:13,592 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 22:45:13,592 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 22:45:13,733 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 22:45:13,873 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 22:45:14,545 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:45:14,680 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 22:45:14,680 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 22:45:15,233 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 22:45:15,748 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 22:45:15,827 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 22:45:15,927 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 22:45:15,980 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 22:45:18,651 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 22:45:19,681 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 23:01:25,962 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 23:01:26,080 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 23:01:26,092 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 23:01:28,372 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 23:01:29,310 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 23:01:29,459 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 23:01:29,528 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 23:01:30,881 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 23:01:32,010 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 23:01:32,011 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 23:01:32,011 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 23:01:32,144 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 23:01:32,299 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 23:01:32,923 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:01:33,029 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 23:01:33,030 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:01:33,591 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 23:01:34,066 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 23:01:34,119 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 23:01:34,211 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 23:01:34,269 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 23:01:37,547 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 23:01:38,673 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 23:03:14,361 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 23:03:14,466 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 23:03:14,477 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 23:03:16,760 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 23:03:17,692 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 23:03:17,844 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 23:03:17,916 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 23:03:19,244 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 23:03:20,393 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 23:03:20,395 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 23:03:20,396 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 23:03:20,531 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 23:03:20,671 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 23:03:21,511 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:03:21,543 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 23:03:21,543 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:03:22,086 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 23:03:22,539 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 23:03:22,583 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 23:03:22,655 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 23:03:22,688 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 23:03:25,882 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 23:03:27,127 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 23:07:31,221 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 23:07:31,341 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 23:07:31,355 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 23:07:33,651 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 23:07:34,526 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 23:07:34,678 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 23:07:34,750 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 23:07:35,992 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 23:07:36,985 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 23:07:36,987 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 23:07:36,987 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 23:07:37,151 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 23:07:37,292 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 23:07:38,122 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:07:38,157 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 23:07:38,158 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:07:38,748 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 23:07:39,206 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 23:07:39,266 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 23:07:39,371 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 23:07:39,424 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 23:07:42,078 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 23:07:42,206 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 23:08:34,580 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 23:08:34,766 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 23:08:34,783 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 23:08:37,566 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 23:08:38,745 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 23:08:38,966 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 23:08:39,068 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 23:08:40,422 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 23:08:41,568 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 23:08:41,569 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 23:08:41,569 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 23:08:41,721 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 23:08:41,878 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 23:08:42,521 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:08:42,673 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 23:08:42,673 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:08:43,268 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 23:08:43,864 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 23:08:43,920 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 23:08:44,037 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 23:08:44,082 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 23:08:47,007 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 23:08:47,142 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-12 23:09:38,658 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-12 23:09:38,889 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-12 23:09:38,916 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-12 23:09:41,598 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-12 23:09:42,637 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-12 23:09:42,874 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-12 23:09:43,026 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-12 23:09:44,385 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-12 23:09:45,600 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-12 23:09:45,603 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-12 23:09:45,603 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-12 23:09:45,757 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-12 23:09:45,912 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-12 23:09:46,636 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:09:46,814 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-12 23:09:46,816 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-12 23:09:47,450 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-12 23:09:48,010 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-12 23:09:48,082 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-12 23:09:48,203 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-12 23:09:48,267 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-12 23:09:51,300 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-12 23:09:52,623 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 17:08:06,768 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 17:08:07,556 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 17:08:07,591 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 17:08:10,621 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 17:08:11,639 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 17:08:11,803 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 17:08:11,883 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 17:08:13,362 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 17:08:14,662 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 17:08:14,666 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 17:08:14,667 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 17:08:14,844 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 17:08:15,015 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 17:08:15,680 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:08:15,828 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 17:08:15,828 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:08:16,467 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 17:08:16,990 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 17:08:17,092 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 17:08:17,260 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 17:08:17,335 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 17:08:20,593 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 17:08:22,136 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 17:28:36,648 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 17:28:36,789 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 17:28:36,805 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 17:28:39,294 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 17:28:40,299 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 17:28:40,454 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 17:28:40,523 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 17:28:41,890 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 17:28:43,109 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 17:28:43,112 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 17:28:43,113 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 17:28:43,298 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 17:28:43,470 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 17:28:44,504 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:28:44,612 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 17:28:44,613 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:28:45,274 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 17:28:45,984 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 17:28:46,093 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 17:28:46,281 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 17:28:46,372 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 17:29:05,343 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 17:29:05,482 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 17:29:05,497 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 17:29:08,057 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 17:29:09,026 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 17:29:09,212 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 17:29:09,286 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 17:29:10,580 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 17:29:11,730 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 17:29:11,732 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 17:29:11,732 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 17:29:11,906 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 17:29:12,093 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 17:29:12,716 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:29:12,903 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 17:29:12,903 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:29:13,519 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 17:29:14,022 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 17:29:14,113 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 17:29:14,283 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 17:29:14,365 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 17:29:17,243 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 17:29:18,629 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 17:35:56,693 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 17:35:56,832 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 17:35:56,846 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 17:35:59,513 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 17:36:00,499 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 17:36:00,702 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 17:36:00,780 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 17:36:02,097 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 17:36:03,290 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 17:36:03,294 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 17:36:03,295 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 17:36:03,472 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 17:36:03,658 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 17:36:04,332 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:36:04,520 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 17:36:04,521 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:36:05,339 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 17:36:05,873 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 17:36:05,982 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 17:36:06,175 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 17:36:06,268 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 17:36:09,192 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 17:36:10,313 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 17:46:18,598 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 17:46:18,735 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 17:46:18,750 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 17:46:21,101 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 17:46:22,120 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 17:46:22,301 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 17:46:22,390 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 17:46:23,802 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 17:46:24,967 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 17:46:24,970 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 17:46:24,970 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 17:46:25,136 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 17:46:25,321 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 17:46:26,222 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:46:26,380 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 17:46:26,381 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:46:26,982 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 17:46:27,611 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 17:46:27,712 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 17:46:27,868 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 17:46:27,956 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 17:46:30,958 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 17:46:32,223 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 17:50:23,811 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 17:50:23,971 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 17:50:23,989 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 17:50:26,493 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 17:50:27,551 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 17:50:27,766 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 17:50:27,850 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 17:50:29,256 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 17:50:30,495 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 17:50:30,499 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 17:50:30,500 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 17:50:30,695 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 17:50:30,901 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 17:50:31,832 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:50:31,921 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 17:50:31,921 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 17:50:32,549 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 17:50:33,137 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 17:50:33,246 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 17:50:33,439 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 17:50:33,537 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 17:50:36,805 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 17:50:38,471 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:05:55,406 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:05:55,545 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:05:55,568 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:05:58,110 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:05:59,138 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:05:59,330 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:05:59,415 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:06:00,785 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:06:02,045 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:06:02,049 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:06:02,050 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:06:02,242 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:06:02,426 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:06:03,131 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:06:03,316 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:06:03,317 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:06:03,948 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:06:04,527 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:06:04,630 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:06:04,833 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:06:04,918 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:06:07,887 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:06:09,174 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:17:18,344 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:17:18,756 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:17:18,764 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:17:21,120 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:17:22,146 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:17:22,401 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:17:22,518 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:17:24,076 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:17:25,250 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:17:25,252 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:17:25,252 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:17:25,402 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:17:25,557 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:17:26,461 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:17:26,525 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:17:26,525 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:17:27,080 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:17:27,613 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:17:27,687 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:17:27,810 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:17:27,886 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:17:42,896 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:17:43,066 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:17:43,082 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:17:45,637 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:17:46,658 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:17:46,901 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:17:47,009 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:17:48,382 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:17:49,593 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:17:49,594 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:17:49,594 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:17:49,749 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:17:49,889 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:17:50,501 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:17:50,719 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:17:50,720 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:17:51,325 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:17:51,871 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:17:51,947 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:17:52,080 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:17:52,136 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:17:55,327 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:17:56,679 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:19:04,013 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:19:04,127 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:19:04,140 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:19:06,372 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:19:07,388 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:19:07,564 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:19:07,641 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:19:08,982 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:19:10,177 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:19:10,178 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:19:10,179 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:19:10,322 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:19:10,461 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:19:11,266 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:19:11,340 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:19:11,341 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:19:11,890 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:19:12,320 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:19:12,370 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:19:12,450 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:19:12,487 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:19:15,517 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:19:16,876 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:23:01,412 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:23:01,534 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:23:01,543 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:23:03,830 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:23:04,799 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:23:05,046 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:23:05,153 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:23:06,554 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:23:07,753 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:23:07,754 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:23:07,754 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:23:07,897 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:23:08,036 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:23:08,902 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:23:09,003 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:23:09,004 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:23:09,619 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:23:10,163 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:23:10,229 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:23:10,345 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:23:10,405 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:23:13,319 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:23:13,449 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:23:33,557 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:23:33,707 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:23:33,722 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:23:36,066 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:23:37,002 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:23:37,235 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:23:37,325 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:23:38,634 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:23:39,760 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:23:39,761 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:23:39,761 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:23:39,905 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:23:40,058 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:23:40,886 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:23:40,978 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:23:40,978 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:23:41,585 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:23:42,141 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:23:42,201 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:23:42,302 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:23:42,352 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:23:45,346 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:23:46,618 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:26:30,550 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:26:30,735 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:26:30,760 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:26:33,667 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:26:34,787 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:26:35,117 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:26:35,236 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:26:36,604 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:26:37,812 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:26:37,814 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:26:37,815 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:26:37,981 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:26:38,165 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:26:39,083 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:26:39,397 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:26:39,398 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:26:40,230 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:26:41,305 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:26:41,460 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:26:41,704 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:26:41,824 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:26:55,137 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:26:55,289 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:26:55,306 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:26:57,703 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:26:58,666 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:26:58,907 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:26:59,002 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:27:00,366 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:27:01,555 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:27:01,558 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:27:01,558 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:27:01,709 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:27:01,865 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:27:02,750 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:27:02,839 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:27:02,839 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:27:03,484 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:27:03,980 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:27:04,052 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:27:04,165 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:27:04,226 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:27:07,755 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:27:08,764 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:28:29,192 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:28:29,489 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:28:29,527 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:28:32,289 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:28:33,177 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:28:33,369 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:28:33,480 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:28:34,817 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:28:35,956 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:28:35,956 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:28:35,957 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:28:36,108 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:28:36,263 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:28:36,989 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:28:37,171 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:28:37,171 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:28:37,798 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:28:38,396 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:28:38,467 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:28:38,583 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:28:38,636 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:28:41,995 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:28:43,098 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:32:44,657 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:32:44,771 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:32:44,791 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:32:47,056 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:32:47,962 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:32:48,140 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:32:48,215 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:32:49,502 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:32:50,580 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:32:50,581 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:32:50,583 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:32:50,723 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:32:50,862 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:32:51,660 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:32:51,703 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:32:51,703 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:32:52,267 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:32:52,720 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:32:52,768 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:32:52,843 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:32:52,886 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:32:56,091 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:32:57,222 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:34:05,283 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:34:05,415 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:34:05,429 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:34:07,642 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:34:08,534 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:34:08,708 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:34:08,785 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:34:10,043 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:34:11,075 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:34:11,076 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:34:11,077 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:34:11,223 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:34:11,364 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:34:12,188 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:34:12,223 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:34:12,224 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:34:13,034 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:34:25,674 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:34:25,792 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:34:25,805 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:34:28,093 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:34:29,027 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:34:29,235 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:34:29,329 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:34:30,708 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:34:31,806 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:34:31,808 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:34:31,808 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:34:31,954 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:34:32,092 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:34:32,765 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:34:32,923 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:34:32,923 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:34:33,519 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:34:34,057 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:34:34,127 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:34:34,235 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:34:34,290 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:34:54,103 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:34:54,221 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:34:54,237 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:34:56,423 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:34:57,383 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:34:57,601 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:34:57,693 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:34:59,000 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:35:00,234 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:35:00,236 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:35:00,236 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:35:00,394 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:35:00,548 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:35:01,120 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:35:01,311 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:35:01,312 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:35:01,966 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:35:02,654 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:35:02,744 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:35:02,906 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:35:03,027 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:35:23,468 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:35:23,626 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:35:23,641 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:35:26,061 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:35:27,104 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:35:27,300 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:35:27,390 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:35:28,659 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:35:29,762 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:35:29,763 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:35:29,764 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:35:29,919 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:35:30,058 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:35:30,881 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:35:30,952 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:35:30,953 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:35:31,519 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:35:32,029 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:35:32,088 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:35:32,192 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:35:32,243 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:35:34,859 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:35:36,092 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:36:40,963 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:36:41,092 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:36:41,107 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:36:43,505 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:36:44,539 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:36:44,715 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:36:44,808 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:36:46,331 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:36:47,467 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:36:47,468 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:36:47,469 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:36:47,608 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:36:47,747 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:36:48,387 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:36:48,541 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:36:48,542 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:36:49,167 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:36:49,588 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:36:49,649 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:36:49,740 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:36:49,786 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:36:52,722 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:36:53,999 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:40:03,832 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:40:04,103 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:40:04,129 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:40:07,264 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:40:08,594 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:40:08,902 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:40:09,061 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:40:10,448 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:40:11,659 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:40:11,663 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:40:11,664 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:40:11,826 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:40:11,995 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:40:12,832 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:40:13,114 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:40:13,115 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:40:13,787 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:40:14,610 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:40:14,705 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:40:14,884 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:40:14,982 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:40:40,150 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:40:40,308 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:40:40,326 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:40:43,010 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:40:44,013 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:40:44,261 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:40:44,364 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:40:45,663 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:40:46,721 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:40:46,723 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:40:46,724 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:40:46,884 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:40:47,040 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:40:47,695 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:40:47,884 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:40:47,885 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:40:48,524 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:40:49,070 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:40:49,134 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:40:49,248 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:40:49,305 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:40:51,865 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:40:53,050 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:44:20,375 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:44:20,504 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:44:20,518 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:44:22,739 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:44:23,675 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:44:23,876 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:44:23,950 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:44:25,229 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:44:26,353 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:44:26,354 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:44:26,355 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:44:26,498 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:44:26,637 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:44:27,231 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:44:27,391 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:44:27,391 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:44:27,978 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:44:28,463 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:44:28,512 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:44:28,597 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:44:28,643 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:44:31,348 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:44:32,499 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 18:45:49,411 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:45:49,566 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:45:49,580 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:45:51,962 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:45:52,941 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:45:53,157 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:45:53,244 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:45:54,654 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:45:56,041 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:45:56,044 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:45:56,044 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:45:56,189 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:45:56,343 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:45:56,961 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:45:57,138 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:45:57,138 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:45:57,736 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:45:58,297 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:45:58,381 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:45:58,510 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:45:58,571 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:46:17,020 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 18:46:17,158 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 18:46:17,171 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 18:46:19,574 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 18:46:20,536 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 18:46:20,728 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 18:46:20,811 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 18:46:22,176 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 18:46:23,279 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 18:46:23,280 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 18:46:23,281 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 18:46:23,429 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 18:46:23,582 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 18:46:24,417 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:46:24,471 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 18:46:24,472 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 18:46:25,096 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 18:46:25,625 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 18:46:25,687 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 18:46:25,813 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 18:46:25,875 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 18:46:29,257 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 18:46:30,388 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 19:14:38,701 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 19:14:38,899 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 19:14:38,931 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 19:14:42,147 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 19:14:43,285 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 19:14:43,463 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 19:14:43,540 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 19:14:45,035 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 19:14:46,327 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 19:14:46,329 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 19:14:46,331 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 19:14:46,507 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 19:14:46,677 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 19:14:47,552 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 19:14:47,646 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 19:14:47,648 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 19:14:48,264 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 19:14:48,851 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 19:14:48,939 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 19:14:49,084 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 19:14:49,164 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 19:15:01,396 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 19:15:01,535 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 19:15:01,552 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 19:15:04,099 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 19:15:05,339 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 19:15:05,528 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 19:15:05,606 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 19:15:07,142 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 19:15:08,514 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 19:15:08,517 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 19:15:08,517 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 19:15:08,695 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 19:15:08,882 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 19:15:09,755 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 19:15:09,967 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 19:15:09,969 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 19:15:10,675 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 19:15:11,351 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 19:15:11,442 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 19:15:11,612 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 19:15:11,697 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 19:15:42,891 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 19:15:43,149 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 19:15:43,177 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 19:15:46,123 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 19:15:47,207 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 19:15:47,373 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 19:15:47,453 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 19:15:48,827 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 19:15:49,968 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 19:15:49,971 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 19:15:49,972 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 19:15:50,152 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 19:15:50,339 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 19:15:51,038 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 19:15:51,181 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 19:15:51,181 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 19:15:51,799 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 19:15:52,393 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 19:15:52,490 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 19:15:52,655 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 19:15:52,749 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 19:16:27,015 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 19:16:27,219 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 19:16:27,254 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 19:16:30,121 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 19:16:31,131 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 19:16:31,360 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 19:16:31,458 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 19:16:32,847 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 19:16:34,096 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 19:16:34,097 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 19:16:34,097 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 19:16:34,238 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 19:16:34,394 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 19:16:35,273 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 19:16:35,361 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-13 19:16:35,361 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 19:16:35,935 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 19:16:36,387 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 19:16:36,450 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 19:16:36,551 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 19:16:36,612 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 19:16:40,005 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 19:16:41,159 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 20:07:42,839 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 20:07:43,461 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:07:43,473 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:07:45,939 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 20:07:46,942 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 20:07:47,104 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 20:07:47,239 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 20:07:48,584 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 20:07:49,719 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 20:07:49,723 - Test Lead Champa Nandi -INFO - verified TextWelcome, Smart Tech!
+2022-12-13 20:07:49,723 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-13 20:07:49,925 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-13 20:07:50,110 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-13 20:07:51,003 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 20:07:51,063 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-13 20:07:51,657 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-13 20:07:52,206 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-13 20:07:52,300 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-13 20:07:52,471 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-13 20:07:52,551 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-13 20:07:55,884 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-13 20:07:57,025 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-13 23:02:41,567 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 23:02:42,272 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 23:02:42,291 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 23:02:45,592 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 23:02:46,596 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 23:02:46,753 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 23:02:46,837 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 23:02:48,141 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-13 23:02:49,275 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-13 23:12:59,385 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-13 23:12:59,586 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 23:12:59,608 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 23:13:02,411 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-13 23:13:03,495 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-13 23:13:03,793 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-13 23:13:03,908 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-13 23:13:05,256 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-14 18:34:16,339 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-14 18:34:17,211 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 18:34:17,240 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 18:34:20,145 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-14 18:34:21,076 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-14 18:34:21,267 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-14 18:34:21,356 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-14 18:34:22,617 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-14 18:34:23,810 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-14 18:34:23,815 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-14 18:34:23,996 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-14 18:34:24,184 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-14 18:34:24,868 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-14 18:34:25,137 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-14 18:34:25,139 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-14 18:34:25,906 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-14 18:34:26,538 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-14 18:34:26,634 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-14 18:34:26,796 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-14 18:34:26,872 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-14 18:34:37,753 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-14 18:34:37,886 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 18:34:37,903 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 18:34:40,344 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-14 18:34:41,324 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-14 18:34:41,489 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-14 18:34:41,568 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-14 18:34:42,872 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-14 18:34:44,008 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-14 18:34:44,010 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-14 18:34:44,184 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-14 18:34:44,355 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-14 18:34:45,249 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-14 18:34:45,304 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-14 18:34:45,305 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-14 18:34:46,328 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-14 18:34:46,813 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-14 18:34:46,897 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-14 18:34:47,062 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-14 18:34:47,135 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-14 18:34:50,223 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-14 18:34:51,592 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-16 20:08:36,418 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-16 20:08:37,312 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-16 20:08:37,339 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-16 20:08:40,447 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-16 20:08:41,477 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-16 20:08:41,646 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-16 20:08:41,718 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-16 20:08:43,085 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-16 20:08:44,268 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-16 20:08:44,271 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-16 20:08:44,464 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-16 20:08:44,634 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-16 20:08:45,605 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-16 20:08:45,677 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-16 20:08:45,678 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-16 20:08:46,271 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-16 20:08:46,836 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-16 20:08:46,923 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-16 20:08:47,088 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-16 20:08:47,155 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-16 20:08:50,632 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-16 20:08:52,243 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-16 20:09:41,162 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-16 20:09:41,313 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-16 20:09:41,326 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-16 20:09:43,663 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-16 20:09:44,773 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-16 20:09:44,936 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-16 20:09:45,007 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-16 20:09:46,571 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-16 20:09:47,940 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-16 20:09:47,943 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-16 20:09:48,127 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-16 20:09:48,301 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-16 20:09:48,992 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-16 20:09:49,150 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-16 20:09:49,151 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-16 20:09:49,784 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-16 20:09:50,309 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-16 20:09:50,388 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-16 20:09:50,554 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-16 20:09:50,641 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-16 20:09:53,965 - Test Lead Champa Nandi -INFO - user able to checkOut
+2022-12-16 20:09:55,330 - Test Lead Champa Nandi -INFO - user able to click on new address
+2022-12-19 21:13:41,495 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-19 21:13:42,381 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-19 21:13:42,409 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 21:13:45,654 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-19 21:13:46,643 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-19 21:13:46,801 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-19 21:13:46,875 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-19 21:13:48,318 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-19 21:13:49,503 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-19 21:13:49,503 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-19 21:13:49,676 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-19 21:13:49,852 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-19 21:13:50,583 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-19 21:13:50,713 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-19 21:13:50,713 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-19 21:13:51,312 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-19 21:13:51,889 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-19 21:13:51,977 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-19 21:13:52,140 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-19 21:13:52,224 - Test Lead Champa Nandi -INFO - user able add shopping cart
+2022-12-19 21:27:13,309 - Test Lead Champa Nandi -INFO - Start Automation in Chrome browser
+2022-12-19 21:27:13,485 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-19 21:27:13,509 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\nandi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-19 21:27:16,302 - Test Lead Champa Nandi -INFO - user able to clickSign In button
+2022-12-19 21:27:17,242 - Test Lead Champa Nandi -INFO - user able to enter user name
+2022-12-19 21:27:17,412 - Test Lead Champa Nandi -INFO - user able to enter password
+2022-12-19 21:27:17,493 - Test Lead Champa Nandi -INFO - user able to click login
+2022-12-19 21:27:19,125 - Test Lead Champa Nandi -INFO - User able verify the text
+2022-12-19 21:27:20,236 - Test Lead Champa Nandi -INFO - user able to verifi login page
+2022-12-19 21:27:20,240 - Test Lead Champa Nandi -INFO - user able to mouseHover over the menModule
+2022-12-19 21:27:20,436 - Test Lead Champa Nandi -INFO - user able to mouseHover Tops
+2022-12-19 21:27:20,620 - Test Lead Champa Nandi -INFO - user able to click Jacket
+2022-12-19 21:27:21,230 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-19 21:27:21,409 - Test Lead Champa Nandi -INFO - verified TextJupiter All-Weather Trainer
+2022-12-19 21:27:21,410 - Test Lead Champa Nandi -INFO - user able to verify specific Jacket
+2022-12-19 21:27:22,006 - Test Lead Champa Nandi -INFO - user able to select size
+2022-12-19 21:27:22,548 - Test Lead Champa Nandi -INFO - user able to select color
+2022-12-19 21:27:22,638 - Test Lead Champa Nandi -INFO - user able to select the quantity
+2022-12-19 21:27:22,804 - Test Lead Champa Nandi -INFO - user able add to cart
+2022-12-19 21:27:22,889 - Test Lead Champa Nandi -INFO - user able add shopping cart
